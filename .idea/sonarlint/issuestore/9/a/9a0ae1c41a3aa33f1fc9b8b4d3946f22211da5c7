@@ -1,0 +1,13 @@
+
+?squid:S1170"!Make this final field static too.(πÉà√8çΩÇπ‰-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßä‹¥˝ˇˇˇˇ8çΩÇπ‰-
+osquid:S3305"QInject this field value directly into "dataSource", the only method that uses it.(µˆ˝∂8çΩÇπ‰-
+msquid:S00116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πÉà√8çΩÇπ‰-
+usquid:S00116"QRename this field "DRIVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çªÒª¯ˇˇˇˇ8çΩÇπ‰-
+Dsquid:S1170"!Make this final field static too.(çªÒª¯ˇˇˇˇ8çΩÇπ‰-
+ssquid:S00116"ORename this field "USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒë¥†˛ˇˇˇˇ8çΩÇπ‰-
+wsquid:S00116"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É∫Åúˇˇˇˇˇ8çΩÇπ‰-
+ésquid:UselessImportCheck"^Remove this unused import 'org.springframework.web.servlet.view.InternalResourceViewResolver'.(Œ¯ˇÇ˛ˇˇˇˇ8çΩÇπ‰-
+Dsquid:S1170"!Make this final field static too.(ƒë¥†˛ˇˇˇˇ8çΩÇπ‰-
+Dsquid:S1170"!Make this final field static too.(É∫Åúˇˇˇˇˇ8çΩÇπ‰-
+ysquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(É∫Åúˇˇˇˇˇ8çΩÇπ‰-
