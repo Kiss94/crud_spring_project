@@ -22,7 +22,7 @@
         <hikaricp.version>3.4.0</hikaricp.version>
         <mockito.version>2.21.0</mockito.version>
         <lombok.version>1.18.10</lombok.version>
-        <pgdriver.version>42.2.5</pgdriver.version>
+        <pgdriver.version>42.2.25</pgdriver.version>
         <slf4j.api.version>1.7.5</slf4j.api.version>
         <slf4j.version>1.6.4</slf4j.version>
         <javax.version>4.0.0</javax.version>
